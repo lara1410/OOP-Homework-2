@@ -1,4 +1,4 @@
-package OOP Homework 1;
+
 import java.util.*;
 
 class Main {
