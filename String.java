@@ -37,7 +37,7 @@ public static boolean isValid(String word) {
        
  //3. must contain at least two digits.
         
-if (word.length() < 8 ){
+if (word.length() < 8 || word.toLowerCase.equals(word)){
             
 return false;
         
