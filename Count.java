@@ -11,7 +11,7 @@ public class Main {
         String[] words = phrase.split(" ");
 
         System.out.println("The number of words is:"+ "  "+words.length);
-        System.out.println("The number of sentences:"+"  "+ findNumberOfSentence());
+        System.out.println("The number of sentences:"+"  "+ findNumberOfSentence("dsfghjk dfghjkl ghjnmk fghjmk l rtuyturt trgdgt ertre "));
 
 
 
